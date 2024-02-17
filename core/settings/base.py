@@ -151,6 +151,6 @@ WAGTAILSEARCH_BACKENDS = {
 }
 
 # e.g. in notification emails. Don't include '/admin' or a trailing slash
-WAGTAILADMIN_BASE_URL = "http://ryanbradon.work"
+WAGTAILADMIN_BASE_URL = "https://ryanbradon.work"
 SITE_ID = 1
 
